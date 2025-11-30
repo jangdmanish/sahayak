@@ -1,5 +1,5 @@
 # Sahayak Assistant AI
-**Sahayak is an AI assistant encompassing everything, from handling calls to planning events to scheduling meetings & scheduling reminders and more.**
+**Sahayak is a helpful AI assistant. It can receive calls and respond, link to whatsapp and respond on your behalf to personal and group messages. 
 
 ## Built on stack
 - **Node.js**  
